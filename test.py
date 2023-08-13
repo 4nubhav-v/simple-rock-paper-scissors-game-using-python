@@ -22,7 +22,7 @@ elif ran == "paper":
         print("You win :)")
     else:
         print("You lose :(")
-else:
+elif ran == "scissors":
     print("Computer choosed 'Scissors' ")
     if a == "rock":
         print("You win :)")
